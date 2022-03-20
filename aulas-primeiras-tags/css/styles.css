@@ -1,0 +1,28 @@
+.cor-laranja {
+    color: orange;
+}
+
+.cor-laranja:hover {
+    color: rgb(204, 173, 116);
+}
+
+h1, h2 {
+    color: blue;
+}
+
+h1:hover {
+    color: aqua;
+    cursor: pointer;
+}
+
+p {
+    color: green;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid red;
+    padding: 10px;
+}
